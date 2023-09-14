@@ -1,0 +1,4 @@
+
+    React development Some command
+
+npx react-native run-android --variant=release
